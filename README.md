@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This is a backend application that uses JavaScript, MySQL, Express.js, and Sequelize to manage an e-commerce store's inventory.
+This is a backend application that uses **JavaScript**, **MySQL**, **Express.js**, and **Sequelize** to manage an e-commerce store's inventory.
 
 ## Project Screenshots
 
@@ -26,20 +26,19 @@ You can see a video demo of the project here: [Employee Management System Video]
 
 ## Background
 
-I've always entertained the thought of creating an e-commerce store for myself but the only ways I knew how to do it were though methods such as Squarespace of Wordpress. However, I wanted to learn how the backend works so this project was very educational and interesting to me.
+I've always entertained the thought of creating an e-commerce store for myself but the only ways I knew how to do it were though methods such as Squarespace or Wordpress. However, I wanted to learn how the backend works so this project was very educational and interesting to me.
 
 ## Learnings
 
-Throughout this project I learned a lot more about how to use sequelize and how to set up routes for the different APIs.
+Throughout this project I learned a lot more about how to use **Sequelize** and how to set up routes for the different APIs.
 
 ## Challenges
 
-It was challenging to test each of the CRUD requests for each of the tables in the database. I ran into a few errors and had to dig throught the code to see what the issues were. The issues ended up being a few names not being camelbacked.
-
+It was challenging to test each of the **CRUD** requests for each of the tables in the database. I ran into a few errors and had to troubleshoot throught the code to see what the issues were. The issues ended up being a few names not being camelbacked.
 
 ## Updates
 
-This project had some starter code such as the server and some of the index files and the models. All the routes for categories, products and tags were all created.
+This project had some starter code such as the server and some of the index files and the models. All the routes for categories, products and tags were all created afterwards.
 
 ## Instalation
 
