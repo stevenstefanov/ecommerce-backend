@@ -42,15 +42,31 @@ This project had some starter code such as the server and some of the index file
 
 ## Instalation
 
-This project is ran exclusively in Terminal. Clone project to local computer. Navigate your Terminal inside the folder where you've saved this project. Run "npm init" followed by "npm install" to get the required modules to properly run this program. Open db/schema.sql, copy the initial code, paste into MySQL Workbench to set up your database. Back in Terminal, ruun the seed file by typing "node seeds/index.js". Once that has fully run, run "node server" in your Terminal and press the Enter button to launch the server and connect to the database.
+This project is ran exclusively through the command line. Save the project to your local computer. Navigate inside the project folder and install all necessary dependencies by typing:
+
+``npm init``
+
+followed by:
+
+``npm install``
+
+Open db/schema.sql, copy the code, paste into MySQL Workbench to set up your database. Back in your command line, run the seed file by typing:
+
+``node seeds/index.js``
+
+Once that has fully run, type:
+
+``node server``
+
+in your the CLI and press the Enter button to launch the server and connect to the database.
 
 ## Usage
 
-Once the database is set up and the server is running, use a program like Insomnia to manipulate data on your backend. Navigate to http://localhost:3001/api/ and then add "products", "categories", or "tags" depending on what information you want. This will allow you to pull all the data from those categories or to post new data. Add an additional "/" with an id to select a single object which can be read, updated or deleted.
+Once the database is set up and the server is running, use a program like **Insomnia** to manipulate data on your backend. Navigate to http://localhost:3001/api/ and then add **"products"**, **"categories"**, or **"tags"** depending on what information you want. This will allow you to pull all the data from those categories or to post new data. Add an additional "/" with an **id** to select a single object which can be **read**, **updated** or **deleted**.
 
 ## Credits
 
-Thank you to Columbia's Full-Stack Web Developer bootcamp for all the assistance and for teaching me all that I have learned. Credit also goes to Google for helping me find any needed resource.
+Thank you to Columbia's Full-Stack Web Developer bootcamp for all the assistance and for teaching me all that I have learned.
 
 ## Licence
 
