@@ -1,32 +1,8 @@
 # E-Commerce Backend
 
-## What is the project?
+## Project Description
 
 This is a backend application that uses JavaScript, MySQL, Express.js, and Sequelize to manage an e-commerce store's inventory.
-
-## What were the challenges?
-
-It was challenging to test each of the CRUD requests for each of the tables in the database. I ran into a few errors and had to dig throught the code to see what the issues were. The issues ended up being a few names not being camelbacked.
-
-## Project Video
-
-You can see a video demo of the project here: [Employee Management System Video](https://www.youtube.com/watch?v=RPw4ULJDeeg)
-
-## What was updated?
-
-This project had some starter code such as the server and some of the index files and the models. All the routes for categories, products and tags were all created.
-
-## Why did I decide to do this project?
-
-I've always entertained the thought of creating an e-commerce store for myself but the only ways I knew how to do it were though methods such as Squarespace of Wordpress. However, I wanted to learn how the backend works so this project was very educational and interesting to me.
-
-## What I learned in the process?
-
-Throughout this project I learned a lot more about how to use sequelize and how to set up routes for the different APIs.
-
-## What makes this project stand out?
-
-This project is a good example of how the backend database looks like for an online store. The user can get, post, put, and delete categories, tags and products from the store.
 
 ## Project Screenshots
 
@@ -44,9 +20,26 @@ This project is a good example of how the backend database looks like for an onl
 
 ![Project Screenshot](assets/6.png)
 
-## Link to Project GitHub Page
+## Project Video
 
-https://github.com/stevenstefanov/ecommerce-backend
+You can see a video demo of the project here: [Employee Management System Video](https://www.youtube.com/watch?v=RPw4ULJDeeg)
+
+## Background
+
+I've always entertained the thought of creating an e-commerce store for myself but the only ways I knew how to do it were though methods such as Squarespace of Wordpress. However, I wanted to learn how the backend works so this project was very educational and interesting to me.
+
+## Learnings
+
+Throughout this project I learned a lot more about how to use sequelize and how to set up routes for the different APIs.
+
+## Challenges
+
+It was challenging to test each of the CRUD requests for each of the tables in the database. I ran into a few errors and had to dig throught the code to see what the issues were. The issues ended up being a few names not being camelbacked.
+
+
+## Updates
+
+This project had some starter code such as the server and some of the index files and the models. All the routes for categories, products and tags were all created.
 
 ## Instalation
 

@@ -1,7 +1,9 @@
+// Dependencies
 const { Model, DataTypes } = require('sequelize');
 
 const sequelize = require('../config/connection.js');
 
+// Define the Category class
 class Category extends Model {}
 
 Category.init(

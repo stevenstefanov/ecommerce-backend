@@ -1,7 +1,9 @@
+// Dependencies
 const { Model, DataTypes, TimeoutError } = require('sequelize');
 
 const sequelize = require('../config/connection.js');
 
+// Define Tag class
 class Tag extends Model {}
 
 Tag.init(
